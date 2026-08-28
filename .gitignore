@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pycachefile
+*.py~
+
+
+# Virtual Environments
+venv/
+env/
+env2/
+ENV/
+
+
+# IDEs and Editors
+.idea/
+.vscode/
